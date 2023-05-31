@@ -21,19 +21,6 @@ input {
 }
 
 
-/* header */
-.navbar .navbar-brand img {
-    height: 15%;
-    width: 15%;
-}
-.navbar .collapse {
-    padding-right: 80px;
-}
-
-.navbar .navbar-toggler {
-    float: right;
-}
-
 /* titlebox */
 .wrapper .titlebox {
     font-size: 20px;
